@@ -18,6 +18,6 @@ This project is built using **HTML5** and **Bootstrap 5**, designed to practice 
  **Clone the Repository**
  ```bash
  git clone
- https://neha-sonii.github.io/Twitter-clone/
+https://github.com/neha-sonii/Tindog.git
  cd tindog
  ```
